@@ -13,7 +13,7 @@
 
 ### <font color = #66CCFF>General Info</font>
 - name: just call me **_Student.N_**
-- gender: _**armored helicoptor**_ (_rather not say, sorry_)
+- gender: _**armored helicopter**_ (_rather not say, sorry_)
 - email: reach me at **_jiamengyun1024@outlook.com_**
 - alternative email: **_administrator_mengyunjia@microdream.tech_** (_do not throw junk at this address plz_)
 - current location: **_China Mainland_**
