@@ -21,10 +21,10 @@
 
 ### <font color = #66CCFF>Programming Language</font>
 1. <font color = #00FF00>**Java SE/EE** (main): currently studying and using **Spring MVC** (_mainly spring 5, spring boot 2.x_)</font>
-2. **C Sharp**: currently doing visual programming with **WinForm** (_mainly win32 programs_) and **WebForm** (_mainly asp.net_)
+2. **C, C++, C#**: currently doing visual programming with **WinForm** (_mainly win32 programs_) and **WebForm** (_mainly asp.net_)
 3. **python**: only able to produce some EASY scripts
 4. **html, css, js**: just started studying these days
-5. **C++, C, etc.**
+5. etc.
 
 
 ### <font color = #66CCFF>IDE and Other Tools</font>
