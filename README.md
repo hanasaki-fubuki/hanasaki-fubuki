@@ -40,7 +40,7 @@
 1. crazy about **_music_** (_especially electric music_) and in love with **_music producing_**
 2. girlfriend is love, **_piano is LIFE_**
 3. play games but **_only rhythm games_**
-4. wanna do some **_air pistol shooting_** practice if there is a chance
+4. wanna do some **_pistol shooting_** practice if there is a chance
 
 
 <!---
