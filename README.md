@@ -1,9 +1,9 @@
 # <font color = 00BFFF>Mengyun117 - Profile</font>
 
-#### <font color = E6FF00>creator and organizer of _Microdream Technologies_ </font>
-#### <font color = E6FF00>passionate programmer and music producer</font>
-#### <font color = E6FF00>mad dog drummer in band</font>
-#### <font color = E6FF00>ooooooooooooordinary rhythm game player</font>
+#### creator and organizer of _Microdream Technologies_
+#### passionate programmer and music producer
+#### mad dog drummer in band
+#### ooooooooooooordinary rhythm game player
 
 ***
 
