@@ -7,7 +7,7 @@
 
 ***
 
-<font color = #66CCFF>**_personal signature:_ **</font><font color = #FF0000>**_a large caliber pistol loaded with a full magazine is always the truth_**</font>
+<font color = #66CCFF>**_personal signature:_ **</font><font color = #FF0000>**_a pistol loaded with a full magazine is always the truth_**</font>
 
 ***
 
