@@ -27,11 +27,11 @@
 
 
 ### <font color = #66CCFF>IDE and Other Tools</font>
-1. <font color = #00FF00>[**IntelliJ IDEA**](https://www.jetbrains.com/idea/) Ultimate Edition by JetBrains (main)</font>
-2. [**WebStorm**](https://www.jetbrains.com/webstorm/) by JetBrains
-3. [**PyCharm**](https://www.jetbrains.com/pycharm/) Professional Edition by JetBrains
-4. [**Visual Studio**](https://visualstudio.microsoft.com/) Enterprise by Microsoft Corporation
-5. [**Datagrip**](https://www.jetbrains.com/datagrip/) by JetBrains
+1. <font color = #00FF00>[IntelliJ IDEA](https://www.jetbrains.com/idea/) Ultimate Edition by JetBrains (main)</font>
+2. [WebStorm](https://www.jetbrains.com/webstorm/) by JetBrains
+3. [PyCharm](https://www.jetbrains.com/pycharm/) Professional Edition by JetBrains
+4. [Visual Studio](https://visualstudio.microsoft.com/) Enterprise by Microsoft Corporation
+5. [Datagrip](https://www.jetbrains.com/datagrip/) by JetBrains
 6. etc.
 
 
