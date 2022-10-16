@@ -14,7 +14,7 @@
 ### <font color = #66CCFF>General Info</font>
 - name: just call me **_Student.N_**
 - gender: _**armored helicopter**_ (_rather not say, sorry_)
-- email: reach me at **_jiamengyun1024@outlook.com_**
+- email: reach me at **_hanasaki-fubuki@outlook.com_**
 - current location: **_China Mainland_**
 
 
