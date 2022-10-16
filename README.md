@@ -1,4 +1,4 @@
-# <font color = 00BFFF>Mengyun117 - Profile</font>
+# <font color = 00BFFF>はなさき　フブキ - Profile</font>
 
 #### creator and organizer of _Microdream Technologies_
 #### passionate programmer and music producer
@@ -12,7 +12,7 @@
 ***
 
 ### <font color = #66CCFF>General Info</font>
-- name: just call me **_Student.N_**
+- name: just call me **_hanasaki fubuki_**
 - gender: _**armored helicopter**_ (_rather not say, sorry_)
 - email: reach me at **_hanasaki-fubuki@outlook.com_**
 - current location: **_China Mainland_**
