@@ -14,7 +14,7 @@
 ### <font color = #66CCFF>General Info</font>
 - name: just call me **_hanasaki fubuki_**
 - gender: _**armored helicopter**_ (_rather not say, sorry_)
-- email: reach me at **_hanasaki-fubuki@outlook.com_**
+- email: reach me at **_[fubuki-external@microdream.tech](mailto:fubuki-external@microdream.tech)_**
 - current location: **_China Mainland_**
 
 
